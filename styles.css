@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 #yellow{
-	background-color:yellow;
+	background:yellow;
 	border:1px solid green;
 }
 #red{
-	background-color:red;
+	background:red;
 	border:1px solid black;
 }
 /* #p3{
@@ -12,7 +12,7 @@
 	border:1px solid yellow;
 } */
 #green{
-	background-color:green;
+	background:green;
 	/* border:1px solid green; */
 	border-width:1px;
 	border-color:yellow;
